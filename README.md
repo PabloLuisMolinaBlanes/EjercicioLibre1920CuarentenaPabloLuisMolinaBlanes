@@ -3,9 +3,11 @@ This program can save a CRISPR strand you place in your program, and analyze str
 
 # Files that get saved:
 
-Option 1: Saves the CRISPR strand as "crisprTest.txt"
+Option 1: Saves the CRISPR strand as "crisprTest.txt".
+
 Option 2: Does not save anything.
-Option 3: Saves the result as "resultTest.txt"
+
+Option 3: Saves the result as "resultTest.txt".
 
 # Main menu
 
