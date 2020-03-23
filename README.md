@@ -15,3 +15,14 @@ This program can save a CRISPR strand you place in your program, and analyze str
 # Option 3
 
 ![Option 3](https://github.com/PabloLuisMolinaBlanes/EjercicioLibre1920CuarentenaPabloLuisMolinaBlanes/blob/master/Op3.PNG)
+
+# Result
+
+Before:
+
+![Before](https://github.com/PabloLuisMolinaBlanes/EjercicioLibre1920CuarentenaPabloLuisMolinaBlanes/blob/master/Op2.PNG)
+
+After:
+
+![After](https://github.com/PabloLuisMolinaBlanes/EjercicioLibre1920CuarentenaPabloLuisMolinaBlanes/blob/master/Result.PNG)
+
